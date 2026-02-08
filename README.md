@@ -16,7 +16,7 @@ The project focuses on:
 - **Python** (pandas, sqlite3)
 - **SQL** (SQLite)
 - **VS Code**
-- Power Bi
+- Power BI
 - **Git & GitHub**
 
 ---
